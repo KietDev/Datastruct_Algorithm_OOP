@@ -1,0 +1,16 @@
+Mùa hè lại đến, công viên văn hóa Đầm Sen hân hoan đón chào các em thiếu nhi, các
+bạn học sinh, sinh viên và toàn thể quí khách đến tham quan và tham dự các trò chơi kì
+thú và đầy hấp dẫn. Giả sử trên mỗi chiếc vé mà công viên phát hành, đều có ghi lại mã
+vé (chuỗi), họ tên người chủ vé (chuỗi), năm sinh của người đó (số nguyên) và số trò
+chơi mà người đó tham dự (số nguyên). Để phục vụ tối đa cho lợi ích khách hàng, công
+viên phát hành 2 loại vé là vé trọn gói và vé từng phần. Giá vé trọn gói là 200.000
+VNĐ. Người chơi mua vé trọn gói có thể chơi tất cả 30 trò chơi có trong công viên. Đối
+với vé từng phần, giá vé là 70.000 VNĐ (giá vé vào cổng), ngoài ra, khi người chơi
+tham dự một trò chơi nào thì cần trả thêm 20.000 VNĐ cho trò chơi đó.
+Hãy viết chương trình bằng C++ cho phép thực hiện các chức năng sau:
+a. Nhập vào danh sách các vé.
+b. Tính tổng tiền vé mà công viên thu được.
+c. Hãy cho biết, có bao nhiêu vé đã bán là vé từng phần.
+Yêu cầu:
+Sử dụng tính chất kế thừa và đa hình. Vẽ sơ đồ lớp: mô tả các lớp, các thuộc tính, các
+phương thức và mối liên hệ các lớp (2.0đ) Lập trình các chức năng được yêu cầu (3đ). 
